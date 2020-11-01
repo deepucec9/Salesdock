@@ -10,6 +10,8 @@ Class for search query are located in **_classes/Searchquery.php**
 
 ## Sql
 
+Sql table with data **SQL Table.sql**
+
 ## Working
 
 Currently there are 3 record in DB.
